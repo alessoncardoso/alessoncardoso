@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alesson Cardoso 👋
 
 - 🔭 Hoje estudo Sistemas de Informação
-- 🌱 Estudando HTML, CSS e JS
+- 🌱 Aprendendo HTML, CSS e JS
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
