@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alesson Cardoso 👋
 
-- 🔭 Hoje estudo Sistemas de Informação
+- 🔭 Estudante de Sistemas de Informação
 - 🌱 Aprendendo HTML, CSS e JS
 - 😄 Pronomes: ele/dele
 
