@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alesson Cardoso 👋
+## Olá! Eu sou Alesson Cardoso 👋
 
 - 🔭 Estudante de Sistemas de Informação
 - 🌱 Aprendendo HTML, CSS e JS
