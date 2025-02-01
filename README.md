@@ -1,7 +1,4 @@
-## Olá! Eu sou Alesson Cardoso 👋
-
-- Estudante de Sistemas de Informação
-- Aprendendo HTML, CSS e JS
+## Alesson Cardoso 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
