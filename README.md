@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10b981&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alesson+Cardoso;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Front-nd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10b981&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alesson+Cardoso;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 ---
 
 <h3>🌐 &nbsp;Redes & Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessoncardoso)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alessoncardoso-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alessoncardoso.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alessoncardoso-portfolio.netlify.app/)
 
 ---
 
