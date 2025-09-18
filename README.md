@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10b981&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alesson+Cardoso;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10b981&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Alesson+Cardoso;Estudante+de+Sistemas+de+Informação;Desenvolvedor+Front-nd)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessoncardoso)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alessoncardoso.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alessoncardoso-portfolio.netlify.app/)
 
 ---
 
@@ -38,20 +38,30 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alessoncardoso&show_icons=true&title_color=10b981&icon_color=10b981&text_color=ffffff&bg_color=0d1117)
-![Streak GitHub](https://streak-stats.demolab.com?user=alessoncardoso&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideNums=ffffff&sideLabels=10b981&dates=ffffff)
-
+<h3>📊 &nbsp;Estatísticas GitHub</h3>
 <div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=alessoncardoso&show_icons=true&title_color=10b981&icon_color=10b981&text_color=ffffff&bg_color=0d1117" 
+      alt="Estatísticas do GitHub"
+      style="flex: 1 1 300px; max-width: 500px; height: auto;"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=alessoncardoso&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideNums=ffffff&sideLabels=10b981&dates=ffffff" 
+      alt="Streak GitHub"
+      style="flex: 1 1 300px; max-width: 500px; height: auto;"
+    />
+  </div>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessoncardoso&layout=compact&title_color=10b981&text_color=ffffff&bg_color=0d1117" 
     alt="Linguagens mais usadas"
+    style="height: 195px;"
   />
 </div>
 
 ---
 
-### 🐍 Contribuições
+<h3>🐍 &nbsp;Contribuições</h3>
 <div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alessoncardoso/alessoncardoso/blob/output/github-contribution-grid-snake-dark.svg" />
