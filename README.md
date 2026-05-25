@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 <h3>⚙️ &nbsp;Back-end</h3>
 
@@ -26,6 +27,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <h3>🗄️ &nbsp;Banco de Dados</h3>
 
@@ -35,29 +37,6 @@
 <h3>🎨 &nbsp;Design</h3>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<h3>📊 &nbsp;Estatísticas GitHub</h3>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=alessoncardoso&show_icons=true&title_color=10b981&icon_color=10b981&text_color=ffffff&bg_color=0d1117" 
-      alt="Estatísticas do GitHub"
-      style="flex: 1 1 300px; max-width: 500px; height: auto;"
-    />
-    <img 
-      src="https://streak-stats.demolab.com?user=alessoncardoso&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideNums=ffffff&sideLabels=10b981&dates=ffffff" 
-      alt="Streak GitHub"
-      style="flex: 1 1 300px; max-width: 500px; height: auto;"
-    />
-  </div>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessoncardoso&layout=compact&title_color=10b981&text_color=ffffff&bg_color=0d1117" 
-    alt="Linguagens mais usadas"
-    style="height: 195px;"
-  />
-</div>
 
 ---
 
